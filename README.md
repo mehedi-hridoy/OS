@@ -7,11 +7,9 @@ This project was undertaken as part of the **Operating System Lab (CSE324)** cou
 
 ### Developers
 - **Mehedi Hasan Hridoy**  
-  ID: 221-15-5097  
   [GitHub Profile](https://github.com/mehedi-hridoy)  
 
-- **Umme Salma Lamyea**  
-  ID: 221-15-5835  
+- **Umme Salma Lamyea**   
 
 ---
 
